@@ -1,7 +1,8 @@
 ---
-title: "pstat197bc"
+title: "Data science capstone"
+subtitle: "Class website for PSTAT197A-B/CMPSC190DE-DF"
 ---
 
-This is a Quarto website.
+PSTAT197A-B/CMPSC190DE-DF comprise the research project component of UC Santa Barbara's yearlong data science capstone sequence. The course provides data science, statistics, and computational science research experiences to undergraduate students of any discipline. Students carry out an end-to-end project over two terms in collaboration with a lab or industry partner and advised by a graduate student or faculty mentor.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This site hosts course information and resources for currently enrolled students.

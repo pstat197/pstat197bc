@@ -1,0 +1,25 @@
+---
+title: "Class meetings"
+---
+
+## Week 1
+
+-   *Comments:* teams should be scheduling their initial project meetings this week to take place during week 2.
+
+-   *Monday meeting*: course overview \[[slides](slides/week1-intro.qmd)\]
+
+-   *Class assignments:*
+
+    -   read syllabus
+
+    -   prepare a motivational statement and \[[submit](https://forms.gle/6MeNMfhxetzxBB7A9)\] by Friday 1/20 11:59pm PST
+
+    -   prepare a team contract and submit signed copy by Friday 1/27 11:59pm PST \[upload to [Google drive](https://drive.google.com/drive/folders/1iDUbNlSIq7NlwUWcWOZkNMdO6B-ji5KK?usp=sharing)\]
+
+## Week 2
+
+***Note WEDNESDAY MEETING this week due to MLK Jr. Day***
+
+-   *Comments:* re-read project abstract before your team meeting.
+
+-   *Wednesday meeting:* student panel on past project experiences

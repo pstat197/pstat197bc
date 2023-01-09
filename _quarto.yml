@@ -1,13 +1,25 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "pstat197bc"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  page-footer: "Site content created for PSTAT197B-C Winter/Spring 2023 by Trevor Ruiz using Quarto; hex logo by Priscilla Siow."
+  # reader-mode: true
+  repo-url: "https://github.com/pstat197/pstat197bc"
+  sidebar:
+    title: "Data Science Capstone"
+    style: "docked"
+    search: true
+    logo: "img/ucsbds_hex.png"
+    tools: 
+      - icon: github
+        href: https://github.com/pstat197
+      - icon: slack
+        href: https://ucsbdscapstone.slack.com
+    contents:
+      - about/syllabus.qmd
+      - about/schedule.qmd
+      - class-meetings.qmd
 
 format:
   html:
@@ -15,5 +27,5 @@ format:
     css: styles.css
     toc: true
 
-
+editor: visual
 
