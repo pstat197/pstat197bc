@@ -4,7 +4,7 @@
     "href": "about/schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\nWeek\nClass meeting\nAssignments/comments\n\n\n\n\n1 (1/9/23)\nIntroduction and class logistics\n\n\n\n2 (1/16/23)\nPanel: past project experiences\nClass meets WEDNESDAY\nMotivational statements due Friday\n\n\n3 (1/23/23)\nGetting started and tips for success\nTeam contracts due Friday\n\n\n4 (1/30/23)\nAmgen, Appfolio\n\n\n\n5 (2/6/23)\nCCBER, Caves lab\n\n\n\n6 (2/13/23)\nCarpe Data, CalCOFI\nPeer evaluations due Friday\n\n\n7 (2/20/23)\nHPC workshop\nNo class meetings\nWorkshop on WEDNESDAY, location TBA\n\n\n8 (2/27/23)\nMonday: Climate Hazards teams\nWednesday: Evidation, Inogen\nClass meets MONDAY AND WEDNESDAY\n\n\n9 (3/6/23)\nEEMB Patrick, MOVE lab\n\n\n\n10 (3/13/23)\nP3, SLAC\nInterim report due Friday\n\n\n11 (finals)\nN/A\nIndividual reflections due Thursday"
+    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\nWeek\nClass meeting\nAssignments/comments\n\n\n\n\n1 (1/9/23)\nIntroduction and class logistics\n\n\n\n2 (1/16/23)\nPanel: past project experiences\nClass meets WEDNESDAY\nMotivational statements due Friday\n\n\n3 (1/23/23)\nGetting started and tips for success\nTeam contracts due Friday\n\n\n4 (1/30/23)\nAmgen, Appfolio\n\n\n\n5 (2/6/23)\nCCBER, Caves lab\n\n\n\n6 (2/13/23)\nCarpe Data, CalCOFI\nPeer evaluations due Friday\n\n\n7 (2/20/23)\nHPC workshop\nNo class meetings\nWorkshop on WEDNESDAY in Elings 1601\n\n\n8 (2/27/23)\nMonday: EEMB Patrick, MOVE lab\nWednesday: Evidation, Inogen\nClass meets MONDAY AND WEDNESDAY\n\n\n9 (3/6/23)\nClimate Hazards teams\n\n\n\n10 (3/13/23)\nP3, SLAC\nInterim report due Friday\n\n\n11 (finals)\nN/A\nIndividual reflections due Thursday"
   },
   {
     "objectID": "about/syllabus.html",
@@ -88,7 +88,7 @@
     "href": "class-meetings.html#week-4",
     "title": "Class meetings",
     "section": "Week 4",
-    "text": "Week 4\n\nMonday meeting: Amgen [handout] [slides] Appfolio [handout] [slides]"
+    "text": "Week 4\nComments: HPC workshop scheduled for 2/22, details TBA; presentation schedule adjusted to accommodate workshop.\n\nMonday meeting: Amgen [handout] [slides] Appfolio [handout] [slides]"
   },
   {
     "objectID": "index.html",
@@ -159,5 +159,12 @@
     "title": "Welcome to Data Science Capstone",
     "section": "Assignments",
     "text": "Assignments\n\nMotivational statement due Friday 1/20 11:59pm PST. Take some time to write a paragraph or two in response to the following prompts:\n\nWhy are you participating in the capstone? What attracted you to the opportunity in the first place and how does it relate to your goals for your undergraduate education?\nWhat do you hope to get out of the experience? Why is that important to you?\nSubmit via Google form\n\nTeam contracts due Friday 1/27 11:59pm PST. See template."
+  },
+  {
+    "objectID": "class-meetings.html#week-5",
+    "href": "class-meetings.html#week-5",
+    "title": "Class meetings",
+    "section": "Week 5",
+    "text": "Week 5\nComments: add your (full) meetings to [this calendar] (current meeting organizers have permissions); add your roles to the [project assignments spreadsheet].\n\nMonday meeting: CCBER [slides] [handout]; Caves lab [slides] [handout]"
   }
 ]
