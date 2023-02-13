@@ -166,5 +166,12 @@
     "title": "Class meetings",
     "section": "Week 5",
     "text": "Week 5\nComments: add your (full) meetings to [this calendar] (current meeting organizers have permissions); add your roles to the [project assignments spreadsheet].\n\nMonday meeting: CCBER [slides] [handout]; Caves lab [slides] [handout]"
+  },
+  {
+    "objectID": "class-meetings.html#week-6",
+    "href": "class-meetings.html#week-6",
+    "title": "Class meetings",
+    "section": "Week 6",
+    "text": "Week 6\nComments: complete pre-workshop instructions (see below) before next week; peer reviews due this week.\n\nMonday meeting: Carpe Data [slides] [handout] ; CalCOFI [slides] [handout]\nPeer reviews due Friday 2/17 11:59pm PST [form]\nHPC workshop next week, Wednesday 2/22 2pm-3pm in Elings 1601. To prepare:\n\nat least one student per team should attend, RSVP here\nhave one attending student per team create a CSC account with the following details\n\nidentify Trevor as your academic advisor\nprovide “data science capstone project” as the project description\nindicate that your project is not NSF-funded\n\nhave the same student verify that they can connect to the Pod cluster\n\nnote windows users will need to download the PuTTy SSH client to connect\nall users will need to be behind the campus VPN if connecting from off campus (see instructions if you are connecting from off campus)\n\nlastly, have the same student install FileZilla and ensure they can open a session (see instructions above for connecting to the Pod cluster)"
   }
 ]
