@@ -4,7 +4,7 @@
     "href": "about/schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\nWeek\nClass meeting\nAssignments/comments\n\n\n\n\n1 (1/9/23)\nIntroduction and class logistics\n\n\n\n2 (1/16/23)\nPanel: past project experiences\nClass meets WEDNESDAY\nMotivational statements due Friday\n\n\n3 (1/23/23)\nGetting started and tips for success\nTeam contracts due Friday\n\n\n4 (1/30/23)\nAmgen, Appfolio\n\n\n\n5 (2/6/23)\nCCBER, Caves lab\n\n\n\n6 (2/13/23)\nCarpe Data, CalCOFI\nPeer evaluations due Friday\n\n\n7 (2/20/23)\nHPC workshop\nNo class meetings\nWorkshop on WEDNESDAY in Elings 1601\n\n\n8 (2/27/23)\nMonday: EEMB Patrick, MOVE lab\nWednesday: Evidation, Inogen\nClass meets MONDAY AND WEDNESDAY\n\n\n9 (3/6/23)\nClimate Hazards teams\n\n\n\n10 (3/13/23)\nP3, SLAC\nInterim report due Friday\n\n\n11 (finals)\nN/A\nIndividual reflections due Thursday"
+    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\nWeek\nClass meeting\nAssignments/comments\n\n\n\n\n1 (1/9/23)\nIntroduction and class logistics\n\n\n\n2 (1/16/23)\nPanel: past project experiences\nClass meets WEDNESDAY\nMotivational statements due Friday\n\n\n3 (1/23/23)\nGetting started and tips for success\nTeam contracts due Friday\n\n\n4 (1/30/23)\nAmgen, Appfolio\n\n\n\n5 (2/6/23)\nCCBER, Caves lab\n\n\n\n6 (2/13/23)\nCarpe Data, CalCOFI\nPeer evaluations due Friday\n\n\n7 (2/20/23)\nHPC workshop\nNo class meetings\nWorkshop on WEDNESDAY in Elings 1601\n\n\n8 (2/27/23)\nMonday: EEMB Patrick, MOVE lab\nWednesday: Evidation\nClass meets MONDAY AND WEDNESDAY\n\n\n9 (3/6/23)\nClimate Hazards teams\n\n\n\n10 (3/13/23)\nP3, SLAC\nInterim report due Friday\n\n\n11 (finals)\nN/A\nIndividual reflections due Thursday"
   },
   {
     "objectID": "about/syllabus.html",
@@ -103,6 +103,20 @@
     "title": "Class meetings",
     "section": "Week 6",
     "text": "Week 6\nComments: complete pre-workshop instructions (see below) before next week; peer reviews due this week.\n\nMonday meeting: Carpe Data [slides] [handout]; CalCOFI [slides] [handout]\nPeer reviews due Friday 2/17 11:59pm PST [form]\nHPC workshop next week, Wednesday 2/22 2pm-3pm in Elings 1601. To prepare:\n\nat least one student per team should attend, RSVP here\nhave one attending student per team create a CSC account with the following details\n\nidentify Trevor as your academic advisor\nprovide “data science capstone project” as the project description\nindicate that your project is not NSF-funded\n\nhave the same student verify that they can connect to the Pod cluster\n\nnote windows users will need to download the PuTTy SSH client to connect\nall users will need to be behind the campus VPN if connecting from off campus (see instructions if you are connecting from off campus)\n\nlastly, have the same student install FileZilla and ensure they can open a session (see instructions above for connecting to the Pod cluster)"
+  },
+  {
+    "objectID": "class-meetings.html#week-7",
+    "href": "class-meetings.html#week-7",
+    "title": "Class meetings",
+    "section": "Week 7",
+    "text": "Week 7\nComments: no class meeting (President’s day)\n\nWednesday: high-performance computing (HPC) workshop [slides]"
+  },
+  {
+    "objectID": "class-meetings.html#week-8",
+    "href": "class-meetings.html#week-8",
+    "title": "Class meetings",
+    "section": "Week 8",
+    "text": "Week 8\nComments: class meetings will be held both Monday and Wednesday, with a shorter meeting on Wednesday; add codes distributed for (most of) 197C and should follow shortly for 190DF (and the rest), please enroll for 4 credits.\n\nMonday meeting: Patrick Green [slides] [handout]; MOVE lab [slides] [handout]\nWednesday meeting: Evidation [slides] [handout]"
   },
   {
     "objectID": "index.html",

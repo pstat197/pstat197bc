@@ -87,3 +87,17 @@ title: "Class meetings"
         -   all users will need to be behind the campus VPN if connecting from off campus (see [instructions](https://www.ets.ucsb.edu/pulse-secure-campus-vpn/get-connected-campus-vpn) if you are connecting from off campus)
 
     -   lastly, have the same student [install FileZilla](https://www.ets.ucsb.edu/pulse-secure-campus-vpn/get-connected-campus-vpn) and ensure they can open a session (see instructions above for connecting to the Pod cluster)
+
+## Week 7
+
+*Comments:* **no class meeting** (President's day)
+
+-   *Wednesday:* high-performance computing (HPC) workshop \[[slides](https://drive.google.com/file/d/1BjEFKutkiemqrzW6cO_lxXMVp3ArmRLP/view?usp=share_link)\]
+
+## Week 8
+
+*Comments:* class meetings will be held **both Monday and Wednesday**, with a shorter meeting on Wednesday; add codes distributed for (most of) 197C and should follow shortly for 190DF (and the rest), please enroll for 4 credits.
+
+-   *Monday meeting:* Patrick Green \[slides\] \[handout\]; MOVE lab \[[slides](https://docs.google.com/presentation/d/1RSKXuxKlEOe_SQjK63w2XGiOr5RLILXh/edit?usp=share_link&ouid=109419302730749851192&rtpof=true&sd=true)\] \[[handout](https://docs.google.com/document/d/1XCVXm2oHCKSOTCuHFTdAw9-zAoS0VmB4/edit?usp=share_link&ouid=109419302730749851192&rtpof=true&sd=true)\]
+
+-   *Wednesday meeting:* Evidation \[slides\] \[handout\]
