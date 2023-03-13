@@ -59,6 +59,8 @@ Organize your report into the sections outlined below. Use subheadings as approp
 
 Your report should be in PDF (.pdf) or Word (.docx) format.
 
+All figures and tables should be labeled and captioned, *e.g.*, "**Fig. 1:** map of sampling locations in 2018".
+
 Copies of any figures should be provided as separate images in JPEG, TIFF, or PNG format; images should have a resolution of at least 300 dots per inch (dpi).
 
 Supplementary material can be submitted in any format.
@@ -67,6 +69,11 @@ Supplementary material can be submitted in any format.
 
 Upload your PDF report and any supplementary files to this [Drive folder](https://drive.google.com/drive/folders/1w4Cp0AoUHY8O_6VSg_XOi2ftgJ4GycpN?usp=share_link). Use the naming conventions:
 
--   `w23-interim-report-TEAM.pdf` report document
+-   report document: `TEAM-interim-report-w23.pdf`
 
--   `supplementary-files-TEAM` subfolder for any supplementary material
+```{=html}
+<!-- -->
+```
+-   copies of figures from the report: `img/TEAM-fig1.png` (filename should match figure label in document)
+
+-   supplementary material: `TEAM-[description].[extention]`
