@@ -20,6 +20,7 @@ website:
       - about/syllabus.qmd
       - about/schedule.qmd
       - class-meetings.qmd
+      - index.qmd
 
 format:
   html:
