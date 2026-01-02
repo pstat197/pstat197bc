@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  page-footer: "Site content created for PSTAT197B-C Winter/Spring 2023 by Trevor Ruiz using Quarto; hex logo by Priscilla Siow."
+  page-footer: "Site content created for PSTAT197B-C Winter/Spring 2025 by Trevor Ruiz, updated by Anthony Coburn using Quarto; hex logo by Priscilla Siow."
   # reader-mode: true
   repo-url: "https://github.com/pstat197/pstat197bc"
   sidebar:
