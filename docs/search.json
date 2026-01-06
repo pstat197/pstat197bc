@@ -25,7 +25,10 @@
     "href": "index.html",
     "title": "Data science capstone",
     "section": "",
-    "text": "PSTAT197A-B/CMPSC190DE-DF comprise the research project component of UC Santa Barbara’s yearlong data science capstone sequence. The course provides data science, statistics, and computational science research experiences to undergraduate students of any discipline. Students carry out an end-to-end project over two terms in collaboration with a lab or industry partner and advised by a graduate student or faculty mentor.\nThis site hosts course information and resources for currently enrolled students."
+    "text": "PSTAT197A-B/CMPSC190DE-DF comprise the research project component of UC Santa Barbara’s yearlong data science capstone sequence. The course provides data science, statistics, and computational science research experiences to undergraduate students of any discipline. Students carry out an end-to-end project over two terms in collaboration with a lab or industry partner and advised by a graduate student or faculty mentor.\nThis site hosts course information and resources for currently enrolled students.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "about/syllabus.html",

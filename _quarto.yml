@@ -17,6 +17,8 @@ website:
       - icon: slack
         href: https://ucsbdscapstone.slack.com
     contents:
+      - href: index.qmd
+        text: Home
       - about/syllabus.qmd
       - about/schedule.qmd
       - class-meetings.qmd
