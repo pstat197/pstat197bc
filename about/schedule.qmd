@@ -5,31 +5,31 @@ title: "Schedule"
 +--------------+--------------------------------------+--------------------------------------+
 | Week         | Class meeting                        | Assignments/comments                 |
 +==============+======================================+======================================+
-| 1 (1/6/26)   | Introduction and class logistics     |   Motivational statements due Friday                                   |
+| 1 (1/6/26)   | Introduction and class logistics     | Motivational statements due Friday   |
 +--------------+--------------------------------------+--------------------------------------+
-| 2 (1/13/26)  |       Getting started and tips for success                               | Team contracts due Friday   |
+| 2 (1/13/26)  | Getting started and tips for success | Team contracts due Friday            |
 |              |                                      |                                      |
 |              |                                      |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 3 (1/20/26)  | TBD |             |
+| 3 (1/20/26)  | TBD                                  |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 4 (1/27/26)  | BlueAlpha Projects 1 and 2                      |                                      |
+| 4 (1/27/26)  | BlueAlpha Projects 1 and 2           |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 5 (2/3/26)   | BlueAlpha Project 3, Brian Codding                    |                                      |
+| 5 (2/3/26)   | BlueAlpha Project 3, Brian Codding   |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 6 (2/10/26)  | CalCOFI groups                  | Peer evaluations due Friday          |
+| 6 (2/10/26)  | CalCOFI groups                       | Peer evaluations due Friday          |
 +--------------+--------------------------------------+--------------------------------------+
-| 7 (2/17/26)  | TBD                 |               |
+| 7 (2/17/26)  | TBD                                  |                                      |
 |              |                                      |                                      |
-|              |                                      |  |
-+--------------+--------------------------------------+--------------------------------------+
-| 8 (2/24/26)  | *Tuesday:* NationBuilder, Neuroscience Research Institute     | Class meets Tuesday *AND* Thursday   |
 |              |                                      |                                      |
-|              | *Thursday:* P3, SLO Probation Dept               |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 9 (3/3/26)   | Scripps Institute, Singularity Solutions                |                                      |
+| 8 (2/24/26)  | *Tuesday:* NationBuilder,            | Class meets Tuesday *AND* Thursday   |
+|              | Neuroscience Research Institute      |                                      |
+|              | *Thursday:* P3, SLO Probation Dept   |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 10 (3/10/26) | Soojin Yi, SoundEthics                             | Interim report due Friday            |
+| 9 (3/3/26)   | Scripps, Singularity Solutions       |                                      |
++--------------+--------------------------------------+--------------------------------------+
+| 10 (3/10/26) | Soojin Yi, SoundEthics               | Interim report due Friday            |
 +--------------+--------------------------------------+--------------------------------------+
 | 11 (finals)  | N/A                                  | Individual reflections due Thursday  |
 +--------------+--------------------------------------+--------------------------------------+
