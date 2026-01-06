@@ -7,7 +7,7 @@ format:
   revealjs:
     incremental: true
     footer: 'PSTAT197A/CMPSC190DD Winter 2026'
-    logo: 'img/ucsbds_hex.png'
+    logo: '../img/ucsbds_hex.png'
     slide-number: true
     # smaller: true
 ---
