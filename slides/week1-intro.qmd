@@ -1,13 +1,13 @@
 ---
 title: "Welcome to Data Science Capstone"
-subtitle: "PSTAT197B/CMPSC190DE Winter 2023"
-author: "Trevor Ruiz"
+subtitle: "PSTAT197B/CMPSC190DE Winter 2026"
+author: "Dr Coburn"
 institute: 'UCSB'
 format: 
   revealjs:
     incremental: true
-    # footer: 'PSTAT197A/CMPSC190DD Fall 2022'
-    # logo: 'img/ucsbds_hex.png'
+    footer: 'PSTAT197A/CMPSC190DD Winter 2026'
+    logo: 'img/ucsbds_hex.png'
     slide-number: true
     # smaller: true
 ---
@@ -30,11 +30,11 @@ format:
 
 ## Course structure
 
--   1 weekly class meeting, usually Mondays, except Wednesday meetings weeks 2 and 7 (MLK and Prez days)
+-   1 weekly class meeting, on Tuesdays
 
--   1 weekly team meeting, scheduled at a time of your choice
+-   1 weekly team meeting, scheduled at a time of your choice (suggest Thursdays, during class time; 2:00 - 3:00 PM)
 
--   optional but highly recommended: second team meeting or working session without advisors
+-   optional but highly recommended: second team meeting or working session without advisors (suggest during your section time)
 
 -   few class assignments each term:
 
@@ -46,7 +46,7 @@ format:
 
 ## Expectations
 
--   weekly time commitment: 12h = 2h in meetings + 10h on projects
+-   weekly time commitment: 12h = 2-3h in meetings + 9-10h on projects
 
 -   engage fully in project work, with some accountability:
 
@@ -69,6 +69,8 @@ You'll take on one of the following roles:
 -   *repository and data manager*
 
 -   for five-person teams, *equity manager*
+
+-   for three-person teams, *meeting organizer* and *note-taker* combine
 
 ## Peer review
 
@@ -120,7 +122,7 @@ Suggested agenda:
 
 -   project intro (20m)
 
-    -   have sponsor tell you about the project in detail in their own words
+    -   have mentor tell you about the project in detail in their own words
 
     -   focus on the big picture, ask questions
 
@@ -136,12 +138,14 @@ Suggested agenda:
 
 ## Assignments
 
--   ***Motivational statement*** due Friday 1/20 11:59pm PST. Take some time to write a paragraph or two in response to the following prompts:
+-   ***Motivational statement*** due Friday 1/9 11:59pm PST. Take some time to write a paragraph or two in response to the following prompts:
 
     -   Why are you participating in the capstone? What attracted you to the opportunity in the first place and how does it relate to your goals for your undergraduate education?
 
     -   What do you hope to get out of the experience? Why is that important to you?
 
-    -   Submit via [Google form](https://forms.gle/6MeNMfhxetzxBB7A9)
+    -   Submit via [Google form](https://forms.gle/pkuv2n3s4iuvkNjg9)
 
--   ***Team contracts*** due Friday 1/27 11:59pm PST. See [template](https://docs.google.com/document/d/1me0JBYSZ5HJrVfDvrjJZakm9wJEt4LUGNk6vBuji1b0/edit?usp=sharing).
+-   ***Team contracts*** due Friday 1/16 11:59pm PST. See [template](https://docs.google.com/document/d/1UOuKzWgLneHoNrTmuL6UZp0uJ6DJVPLdEiEXnEefBJw/edit?usp=sharing).
+
+    -   \[Upload signed copy to [Google drive](https://drive.google.com/drive/folders/1kEVxID498R7_FJkrflManic7qBJ_OU8G?usp=sharing)\]

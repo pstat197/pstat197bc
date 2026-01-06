@@ -65,15 +65,14 @@ Copies of any figures should be provided as separate images in JPEG, TIFF, or PN
 
 Supplementary material can be submitted in any format.
 
-## How to submit
+<!-- ## How to submit -->
 
-Upload your PDF report and any supplementary files to this [Drive folder](https://drive.google.com/drive/folders/1w4Cp0AoUHY8O_6VSg_XOi2ftgJ4GycpN?usp=share_link). Use the naming conventions:
+<!-- Upload your PDF report and any supplementary files to this [Drive folder](https://drive.google.com/drive/folders/1w4Cp0AoUHY8O_6VSg_XOi2ftgJ4GycpN?usp=share_link). Use the naming conventions: -->
 
--   report document: `TEAM-interim-report-w23.pdf`
+<!-- -   report document: `TEAM-interim-report-w23.pdf` -->
 
-```{=html}
-<!-- -->
-```
--   copies of figures from the report: `img/TEAM-fig1.png` (filename should match figure label in document)
+<!-- <!-- --> -->
 
--   supplementary material: `TEAM-[description].[extention]`
+<!-- -   copies of figures from the report: `img/TEAM-fig1.png` (filename should match figure label in document) -->
+
+<!-- -   supplementary material: `TEAM-[description].[extention]` -->

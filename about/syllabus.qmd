@@ -3,7 +3,7 @@ title: "Course syllabus"
 subtitle: "Data science capstone"
 author: "PSTAT197B-C/CMPSC190DE-DF"
 author-title: "Course listing"
-date: "01/06/2022"
+date: "01/04/2026"
 date-format: "MMMM YYYY"
 published-title: "Updated"
 editor: visual
@@ -33,85 +33,59 @@ Through their project work and participation in class meetings, students can exp
 
 ## Meetings
 
-### Winter 2023
+### Winter 2026
 
-Class meetings are held ***once weekly*** 2pm -- 3:15pm Mondays in Phelps 3505.
+Class meetings are held ***once weekly*** 2pm -- 3:15pm Tuesdays in South Hall 1431.
 
-Project meetings are held once weekly in teams at a time of their choosing either via Zoom, on campus, or on site with the project sponsor.
+Project meetings are held once weekly in teams at a time of their choosing either via Zoom, on campus, or on site with the project mentor.
 
-We will not meet regularly at other officially scheduled times but we will use the Wednesday slot as an alternate class meeting time. Please note that ***we will meet on Wednesdays twice during winter term*** due to the following Monday holidays:
+We will not meet regularly at other officially scheduled times, but we will use the Thursday slot as an alternate class meeting time.
 
--   Week 2 (MLK Jr. day)
-
--   Week 7 (President's day)
-
-Students are encouraged to block off section times in their schedule to facilitate convenient scheduling of project work. Section rooms are available during those times as workspaces.
+Students are encouraged to block off section times in their schedule to facilitate convenient scheduling of project work.
 
 ## People
 
 #### ***Instructor***
 
-*Trevor Ruiz,* Visiting Assistant Professor, Statistics.
-
-#### ***Academic Coordinator***
-
-*Tim Robinson,* Academic Coordinator, Computer Science
+*Anthony Coburn,* Lecturer, Statistics.
 
 #### ***Project advisors***
 
 (In alphabetical order by last name)
 
--   *Gia Anh,* MS Student, Statistics
+-   *Abhijit Brahme,* graduate student
 
--   *Joshua Bang,* PhD Student, Statistics
+-   *Anthony Coburn*, lecturer
 
--   *Laura Baracaldo,* Visiting Assistant Professor, Statistics
+-   *Yan Lashchev*, undergraduate program advisor
 
--   *Meghan Elcheikhali,* PhD Student, Statistics
+-   *Olivier Mulkin*, graduate student
 
--   *Alex Franks,* Assistant Professor, Statistics
-
--   *Yan Lashchev,* ULA, BS Student, Statistics and Mathematics
-
--   *Robin Liu,* PhD Student, Statistics
-
--   *Erika McPhillips,* PhD Student, Statistics
-
--   *Adam Waterbury,* Visiting Assistant Professor, Statistics
-
--   *Enbo Zhou,* PhD Student, Geography
-
-#### ***Project sponsors***
+#### ***Project mentors***
 
 (In alphabetical order by organization)
 
--   *Max Ivanov,* Amgen
+-   *Ori Jonathan Porat,* BlueAlpha
 
--   *Ari Fernandez,* Appfolio
+-   *Brian Codding,* Brian Codding Lab
 
--   *Erin Satterthwaite,* CalCOFI
+-   *Erin Satterthwaite,* CalCOFI, CA Sea Grant, and Scripps Institute of Oceanography
 
--   *Andy Chen,* Carpe Data
+-   *Michael Schmidt,* NationBuilder
 
--   *Eleanor Caves,* Caves visual ecology lab
+-   *Juliana Acosta-Uribe,* Neuroscience Research Institute
 
--   *Katja Seltmann,* CCBER
+-   *Eric Leidersdorf,* P3 - Peak Performance Project
 
--   *Greg Husak,* Climate Hazards Center
+-   *Larissa Heeren,* San Luis Obispo Probation Department
 
--   *Shraddhanand Shukla,* Climate Hazards Center
+-   *Rasmus Swalethorp,* Scripps Institue of Oceanography
 
--   *Patrick Green,* EEMB
+-   *Zamir Syed,* Singularity Solutions
 
--   *Arinbjorn Kolbeinsson,* Evidation Health
+-   *Soojin Yi,* Soojin Yi Lab
 
--   *Akshay Mani,* Inogen
-
--   *Somayeh Dodge,* MOVE lab
-
--   *Eric Leidersdorf,* P3
-
--   *Derek Mendez,* SLAC National Accelerator Laboratory
+-   *Tess Ivinjack, Nazhah Mir, and James O'Brien,* SoundEthics
 
 ## Expectations
 
@@ -129,7 +103,9 @@ Students are encouraged to block off section times in their schedule to facilita
 
 -   a *repository/data/document manager* who is responsible for coordinating access to project files and keeping them organized;
 
--   for five-person teams, an *equity manager* who is responsible for ensuring a fair distribution of work among the team members.
+-   for five-person teams, an *equity manager* who is responsible for ensuring a fair distribution of work among the team members;
+
+-   for three-person teams, the roles of *meeting organizer* and *note-taker* will be combined. Workload and equity monitoring will be a standing agenda item, rotating weekly.
 
 ***Peer review.*** Teams will conduct an anonymized peer review each quarter in which each student rates their teammates on:
 
@@ -145,7 +121,7 @@ Students are encouraged to block off section times in their schedule to facilita
 
 Aggregated results will be used to provide individual feedback and identify any necessary interventions to improve quality of collaboration.
 
-***Class presentations.*** Each team is expected to present some of their work once per term to the class. In-class presentations should be informal and allow time for intermittent discussion and questions. Teams should prepare about 10 slides and a 1-2 page handout. It is strongly recommended that just one team member give each presentation.
+***Class presentations.*** Each team is expected to present some of their work once per term to the class. In-class presentations should be informal and allow time for intermittent discussion and questions. Teams should prepare about 10 slides and a 1-2 page handout.
 
 ***Poster presentation.*** A public showcase of project work will be held on campus at the end of the Spring quarter. Each team is expected to prepare a poster to present at the showcase.
 

@@ -18,24 +18,14 @@
     "href": "interim-report-guidelines.html#expectations",
     "title": "Interim report guidelines",
     "section": "Expectations",
-    "text": "Expectations\n\nAudience\nYou are writing for a broad audience. You can assume the reader is familiar with statistics and data science at about the same level as your peers, but should not assume they have any expertise in your area or with the data or methods you are using.\nAvoid jargon, define key terms or acronyms when they first appear, and dedicate space to explaining data and methodology carefully, but avoid over-explaining or providing excessive detail – you are describing research, not teaching a class.\n\n\nLength\nThe report should be no less than 5 pages and no more than 10 pages. If necessary, you can include supplementary material or appendices following the main body of the report or as separate files/documents.\n\n\nContent\nOrganize your report into the sections outlined below. Use subheadings as appropriate to your project to further differentiate report contents within sections. Whenever possible, please make subheadings specific (e.g., “Biological species surveys” is better than “Data”). In general, the headings and subheadings should provide an outline of the contents of a report that is easy for the reader to skim and informative.\n\nIntroduction\nIntroduce the topic of your project and provide any background needed to understand your work. Above all, your introduction should convey the primary motivation and potential value of your work. You are not expected to do a literature review, but if there is closely related prior work or your sponsor has provided you with a collection of relevant papers, you should summarize these and provide citations in the introduction. Close the introduction with a statement of your project objective(s) and a summary of the organization of the report.\nProblem(s) of interest\nConcisely state the problems you’re working on. These should be the high-level problems corresponding to the project objectives that you hope to solve by the end of the capstone – not practical/technical problems encountered along the way like data representation or wrangling, issues with model training or algorithm implementations, computational constraints, etc.\nIf your project has multiple arms, dedicate one short paragraph to each arm. Aim to sum up the problems of interest for each arm in just 1-3 sentences (not required, but a good aspiration).\nTip: If you find yourself struggling to summarize the problems of interest concisely or providing a lot of context or explanation, that’s probably a sign that you need to go back and revise your introduction.\nMaterials and methods\nDescribe your datasets and the statistical/computational techniques you are using to address the problems of interest. Provide high-level summaries of any key methods: if you are fitting a model, write the model clearly and explain how you estimate parameters; if you are designing an algorithm, write it up in pseudo-code; if you are performing hypothesis tests, state the hypotheses and indicate the test. This should be detailed but not long; if it begins to sprawl over many pages, that’s a sign that you need to edit it down.\nPreliminary findings\nPresent key findings from this quarter. Resist the temptation to describe everything you’ve done – focus just on the results that capture the most significant advances. Prepare a table or figure that helps to communicate each key finding with an appropriate caption. If you include a table or figure, you should also describe it in words and explain its significance. No tables or figures should appear that you do not also discuss in the text of the report.\nTip: start by preparing the tables and figures, determine the order to present them in, and then write this section around those elements.\nDiscussion\nThis is your opportunity to describe any particular challenges, interpretations of findings, and the like. Try to stick to the facts in the findings section, and use this section to explain how they relate to your problems of interest and project objectives.\nFuture work\nDescribe how you anticipate extending your project into spring quarter. Be specific. You do not need to present a detailed plan or timeline, but should convey what you expect to work on during Spring quarter. Use this as an opportunity to set goals and expectations for your group.\n\n\n\nFormat\nYour report should be in PDF (.pdf) or Word (.docx) format.\nAll figures and tables should be labeled and captioned, e.g., “Fig. 1: map of sampling locations in 2018”.\nCopies of any figures should be provided as separate images in JPEG, TIFF, or PNG format; images should have a resolution of at least 300 dots per inch (dpi).\nSupplementary material can be submitted in any format."
-  },
-  {
-    "objectID": "interim-report-guidelines.html#how-to-submit",
-    "href": "interim-report-guidelines.html#how-to-submit",
-    "title": "Interim report guidelines",
-    "section": "How to submit",
-    "text": "How to submit\nUpload your PDF report and any supplementary files to this Drive folder. Use the naming conventions:\n\nreport document: TEAM-interim-report-w23.pdf\n\n\n\ncopies of figures from the report: img/TEAM-fig1.png (filename should match figure label in document)\nsupplementary material: TEAM-[description].[extention]"
+    "text": "Expectations\n\nAudience\nYou are writing for a broad audience. You can assume the reader is familiar with statistics and data science at about the same level as your peers, but should not assume they have any expertise in your area or with the data or methods you are using.\nAvoid jargon, define key terms or acronyms when they first appear, and dedicate space to explaining data and methodology carefully, but avoid over-explaining or providing excessive detail – you are describing research, not teaching a class.\n\n\nLength\nThe report should be no less than 5 pages and no more than 10 pages. If necessary, you can include supplementary material or appendices following the main body of the report or as separate files/documents.\n\n\nContent\nOrganize your report into the sections outlined below. Use subheadings as appropriate to your project to further differentiate report contents within sections. Whenever possible, please make subheadings specific (e.g., “Biological species surveys” is better than “Data”). In general, the headings and subheadings should provide an outline of the contents of a report that is easy for the reader to skim and informative.\n\nIntroduction\nIntroduce the topic of your project and provide any background needed to understand your work. Above all, your introduction should convey the primary motivation and potential value of your work. You are not expected to do a literature review, but if there is closely related prior work or your sponsor has provided you with a collection of relevant papers, you should summarize these and provide citations in the introduction. Close the introduction with a statement of your project objective(s) and a summary of the organization of the report.\nProblem(s) of interest\nConcisely state the problems you’re working on. These should be the high-level problems corresponding to the project objectives that you hope to solve by the end of the capstone – not practical/technical problems encountered along the way like data representation or wrangling, issues with model training or algorithm implementations, computational constraints, etc.\nIf your project has multiple arms, dedicate one short paragraph to each arm. Aim to sum up the problems of interest for each arm in just 1-3 sentences (not required, but a good aspiration).\nTip: If you find yourself struggling to summarize the problems of interest concisely or providing a lot of context or explanation, that’s probably a sign that you need to go back and revise your introduction.\nMaterials and methods\nDescribe your datasets and the statistical/computational techniques you are using to address the problems of interest. Provide high-level summaries of any key methods: if you are fitting a model, write the model clearly and explain how you estimate parameters; if you are designing an algorithm, write it up in pseudo-code; if you are performing hypothesis tests, state the hypotheses and indicate the test. This should be detailed but not long; if it begins to sprawl over many pages, that’s a sign that you need to edit it down.\nPreliminary findings\nPresent key findings from this quarter. Resist the temptation to describe everything you’ve done – focus just on the results that capture the most significant advances. Prepare a table or figure that helps to communicate each key finding with an appropriate caption. If you include a table or figure, you should also describe it in words and explain its significance. No tables or figures should appear that you do not also discuss in the text of the report.\nTip: start by preparing the tables and figures, determine the order to present them in, and then write this section around those elements.\nDiscussion\nThis is your opportunity to describe any particular challenges, interpretations of findings, and the like. Try to stick to the facts in the findings section, and use this section to explain how they relate to your problems of interest and project objectives.\nFuture work\nDescribe how you anticipate extending your project into spring quarter. Be specific. You do not need to present a detailed plan or timeline, but should convey what you expect to work on during Spring quarter. Use this as an opportunity to set goals and expectations for your group.\n\n\n\nFormat\nYour report should be in PDF (.pdf) or Word (.docx) format.\nAll figures and tables should be labeled and captioned, e.g., “Fig. 1: map of sampling locations in 2018”.\nCopies of any figures should be provided as separate images in JPEG, TIFF, or PNG format; images should have a resolution of at least 300 dots per inch (dpi).\nSupplementary material can be submitted in any format.\n\n\n\n\n–&gt;"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data science capstone",
     "section": "",
-    "text": "PSTAT197A-B/CMPSC190DE-DF comprise the research project component of UC Santa Barbara’s yearlong data science capstone sequence. The course provides data science, statistics, and computational science research experiences to undergraduate students of any discipline. Students carry out an end-to-end project over two terms in collaboration with a lab or industry partner and advised by a graduate student or faculty mentor.\nThis site hosts course information and resources for currently enrolled students.",
-    "crumbs": [
-      "Data science capstone"
-    ]
+    "text": "PSTAT197A-B/CMPSC190DE-DF comprise the research project component of UC Santa Barbara’s yearlong data science capstone sequence. The course provides data science, statistics, and computational science research experiences to undergraduate students of any discipline. Students carry out an end-to-end project over two terms in collaboration with a lab or industry partner and advised by a graduate student or faculty mentor.\nThis site hosts course information and resources for currently enrolled students."
   },
   {
     "objectID": "about/syllabus.html",
@@ -62,7 +52,7 @@
     "href": "about/syllabus.html#meetings",
     "title": "Course syllabus",
     "section": "Meetings",
-    "text": "Meetings\n\nWinter 2023\nClass meetings are held once weekly 2pm – 3:15pm Mondays in Phelps 3505.\nProject meetings are held once weekly in teams at a time of their choosing either via Zoom, on campus, or on site with the project sponsor.\nWe will not meet regularly at other officially scheduled times but we will use the Wednesday slot as an alternate class meeting time. Please note that we will meet on Wednesdays twice during winter term due to the following Monday holidays:\n\nWeek 2 (MLK Jr. day)\nWeek 7 (President’s day)\n\nStudents are encouraged to block off section times in their schedule to facilitate convenient scheduling of project work. Section rooms are available during those times as workspaces.",
+    "text": "Meetings\n\nWinter 2026\nClass meetings are held once weekly 2pm – 3:15pm Tuesdays in South Hall 1431.\nProject meetings are held once weekly in teams at a time of their choosing either via Zoom, on campus, or on site with the project sponsor.\nWe will not meet regularly at other officially scheduled times but we will use the Thursday slot as an alternate class meeting time.\nStudents are encouraged to block off section times in their schedule to facilitate convenient scheduling of project work.",
     "crumbs": [
       "Course syllabus"
     ]
@@ -72,7 +62,7 @@
     "href": "about/syllabus.html#people",
     "title": "Course syllabus",
     "section": "People",
-    "text": "People\n\nInstructor\nTrevor Ruiz, Visiting Assistant Professor, Statistics.\n\n\nAcademic Coordinator\nTim Robinson, Academic Coordinator, Computer Science\n\n\nProject advisors\n(In alphabetical order by last name)\n\nGia Anh, MS Student, Statistics\nJoshua Bang, PhD Student, Statistics\nLaura Baracaldo, Visiting Assistant Professor, Statistics\nMeghan Elcheikhali, PhD Student, Statistics\nAlex Franks, Assistant Professor, Statistics\nYan Lashchev, ULA, BS Student, Statistics and Mathematics\nRobin Liu, PhD Student, Statistics\nErika McPhillips, PhD Student, Statistics\nAdam Waterbury, Visiting Assistant Professor, Statistics\nEnbo Zhou, PhD Student, Geography\n\n\n\nProject sponsors\n(In alphabetical order by organization)\n\nMax Ivanov, Amgen\nAri Fernandez, Appfolio\nErin Satterthwaite, CalCOFI\nAndy Chen, Carpe Data\nEleanor Caves, Caves visual ecology lab\nKatja Seltmann, CCBER\nGreg Husak, Climate Hazards Center\nShraddhanand Shukla, Climate Hazards Center\nPatrick Green, EEMB\nArinbjorn Kolbeinsson, Evidation Health\nAkshay Mani, Inogen\nSomayeh Dodge, MOVE lab\nEric Leidersdorf, P3\nDerek Mendez, SLAC National Accelerator Laboratory",
+    "text": "People\n\nInstructor\nAnthony Coburn, Lecturer, Statistics.\n\n\nProject advisors\n(In alphabetical order by last name)\n\nAbhijit Brahme, graduate student\nAnthony Coburn, lecturer\nYan Lashchev, undergraduate program advisor\nOlivier Mulkin, graduate student\n\n\n\nProject mentors\n(In alphabetical order by organization)\n\nOri Jonathan Porat, BlueAlpha\nBrian Codding, Brian Codding Lab\nErin Satterthwaite, CalCOFI, CA Sea Grant, and Scripps Institute of Oceanography\nMichael Schmidt, NationBuilder\nJuliana Acosta-Uribe, Neuroscience Research Institute\nEric Leidersdorf, P3 - Peak Performance Project\nLarissa Heeren, San Luis Obispo Probation Department\nRasmus Swalethorp, Scripps Institue of Oceanography\nZamir Syed, Singularity Solutions\nSoojin Yi, Soojin Yi Lab\nTess Ivinjack, Nazhah Mir, and James O’Brien, SoundEthics",
     "crumbs": [
       "Course syllabus"
     ]
@@ -82,7 +72,7 @@
     "href": "about/syllabus.html#expectations",
     "title": "Course syllabus",
     "section": "Expectations",
-    "text": "Expectations\nTime commitment. The course carries a time commitment of 12 hours per week (3 hours per credit unit). Class and project meetings account for roughly 2 hours per week, and class assignments are kept to a minimum to facilitate project work; thus, students should anticipate dedicating 8-10 hours outside of the classroom to project work each week. Students are strongly encouraged to establish a secondary meeting without their advisors each week to help ensure effective time and task management among the group.\nTeam contracts. Each team will develop a contract articulating their goals as a group, basic agreements about communication and collaboration, and steps that will be taken in the event of failure to uphold those agreements.\nTeam roles. Each student will take on one of the following roles per term by mutual agreement with their team:\n\na spokesperson who is responsible for communicating with advisors and course staff on behalf of the team;\na meeting organizer who is responsible for arranging project meetings and keeping time during meetings;\na note-taker who is responsible for maintaining a written record of each meeting;\na repository/data/document manager who is responsible for coordinating access to project files and keeping them organized;\nfor five-person teams, an equity manager who is responsible for ensuring a fair distribution of work among the team members.\n\nPeer review. Teams will conduct an anonymized peer review each quarter in which each student rates their teammates on:\n\ncooperation with the group;\ncommunication;\nadherence to with agreements established by the group contract;\nfulfillment of their assigned role;\nthe extent to which they contributed their fair share to project work.\n\nAggregated results will be used to provide individual feedback and identify any necessary interventions to improve quality of collaboration.\nClass presentations. Each team is expected to present some of their work once per term to the class. In-class presentations should be informal and allow time for intermittent discussion and questions. Teams should prepare about 10 slides and a 1-2 page handout. It is strongly recommended that just one team member give each presentation.\nPoster presentation. A public showcase of project work will be held on campus at the end of the Spring quarter. Each team is expected to prepare a poster to present at the showcase.\nNon-disclosure agreements. Some projects are subject to non-disclosure agreements (NDAs) between the university and the sponsoring organization. If so, project advisors will notify students of the terms and share copies of the NDA; students are expected to uphold any such NDAs but should not directly sign any agreements.",
+    "text": "Expectations\nTime commitment. The course carries a time commitment of 12 hours per week (3 hours per credit unit). Class and project meetings account for roughly 2 hours per week, and class assignments are kept to a minimum to facilitate project work; thus, students should anticipate dedicating 8-10 hours outside of the classroom to project work each week. Students are strongly encouraged to establish a secondary meeting without their advisors each week to help ensure effective time and task management among the group.\nTeam contracts. Each team will develop a contract articulating their goals as a group, basic agreements about communication and collaboration, and steps that will be taken in the event of failure to uphold those agreements.\nTeam roles. Each student will take on one of the following roles per term by mutual agreement with their team:\n\na spokesperson who is responsible for communicating with advisors and course staff on behalf of the team;\na meeting organizer who is responsible for arranging project meetings and keeping time during meetings;\na note-taker who is responsible for maintaining a written record of each meeting;\na repository/data/document manager who is responsible for coordinating access to project files and keeping them organized;\nfor five-person teams, an equity manager who is responsible for ensuring a fair distribution of work among the team members;\nfor three-person teams, the roles of meeting organizer and note-taker will be combined. Workload and equity monitoring will be a standing agenda item, rotating weekly.\n\nPeer review. Teams will conduct an anonymized peer review each quarter in which each student rates their teammates on:\n\ncooperation with the group;\ncommunication;\nadherence to with agreements established by the group contract;\nfulfillment of their assigned role;\nthe extent to which they contributed their fair share to project work.\n\nAggregated results will be used to provide individual feedback and identify any necessary interventions to improve quality of collaboration.\nClass presentations. Each team is expected to present some of their work once per term to the class. In-class presentations should be informal and allow time for intermittent discussion and questions. Teams should prepare about 10 slides and a 1-2 page handout.\nPoster presentation. A public showcase of project work will be held on campus at the end of the Spring quarter. Each team is expected to prepare a poster to present at the showcase.\nNon-disclosure agreements. Some projects are subject to non-disclosure agreements (NDAs) between the university and the sponsoring organization. If so, project advisors will notify students of the terms and share copies of the NDA; students are expected to uphold any such NDAs but should not directly sign any agreements.",
     "crumbs": [
       "Course syllabus"
     ]
@@ -112,7 +102,7 @@
     "href": "class-meetings.html",
     "title": "Class meetings",
     "section": "",
-    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for winter presentations] – upload your slides and handouts here.\n[Presentation review form] – fill out once per presentation.",
+    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for winter presentations] – upload your slides and handouts here. Note that you can print copies of your handout to distribute during your presentation, but it is not required.\n[Presentation review form] – fill out once per presentation.",
     "crumbs": [
       "Class meetings"
     ]
@@ -122,7 +112,7 @@
     "href": "class-meetings.html#links-related-to-class-meetings",
     "title": "Class meetings",
     "section": "",
-    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for winter presentations] – upload your slides and handouts here.\n[Presentation review form] – fill out once per presentation.",
+    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for winter presentations] – upload your slides and handouts here. Note that you can print copies of your handout to distribute during your presentation, but it is not required.\n[Presentation review form] – fill out once per presentation.",
     "crumbs": [
       "Class meetings"
     ]
@@ -132,7 +122,7 @@
     "href": "class-meetings.html#week-1",
     "title": "Class meetings",
     "section": "Week 1",
-    "text": "Week 1\n\nComments: teams should be scheduling their initial project meetings this week to take place during week 2.\nMonday meeting: course overview [slides]\nClass assignments:\n\nread syllabus\nprepare a motivational statement and [submit] by Friday 1/20 11:59pm PST\nprepare a team contract and submit signed copy by Friday 1/27 11:59pm PST [upload to Google drive]",
+    "text": "Week 1\n\nComments: teams should be scheduling their initial project meetings this week, to take place during week 2.\nTuesday meeting: course overview [slides]\nClass assignments:\n\nread syllabus\nprepare a motivational statement and [submit] by Friday 1/9 11:59pm PST\nprepare a team contract (see [template]and submit signed copy by Friday 1/16 11:59pm PST [upload to Google drive]",
     "crumbs": [
       "Class meetings"
     ]
@@ -142,87 +132,7 @@
     "href": "class-meetings.html#week-2",
     "title": "Class meetings",
     "section": "Week 2",
-    "text": "Week 2\nNote WEDNESDAY MEETING this week due to MLK Jr. Day\n\nComments: re-read project abstract before your team meeting.\nWednesday meeting: student panel on past project experiences",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-3",
-    "href": "class-meetings.html#week-3",
-    "title": "Class meetings",
-    "section": "Week 3",
-    "text": "Week 3\nComments: teams should have data in hand this week; presentation schedule updated; contracts due Friday 1/27; see meeting notes template\n\nMonday meeting: getting started and tips for success [slides]\nIn-class presentations to begin next week; should focus on project background, data, goals, and current/planned work\n\nformat: 20min presentation + 10min discussion\nto prepare: 10-15 slides and 1-2 page handout 24h in advance\n[handout template] [evaluation rubric] [last year’s presentations]\nnote last year’s presentations were all given at the end of the quarter and ran 10m shorter",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-4",
-    "href": "class-meetings.html#week-4",
-    "title": "Class meetings",
-    "section": "Week 4",
-    "text": "Week 4\nComments: HPC workshop scheduled for 2/22, details TBA; presentation schedule adjusted to accommodate workshop.\n\nMonday meeting: Amgen [handout] [slides] Appfolio [handout] [slides]",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-5",
-    "href": "class-meetings.html#week-5",
-    "title": "Class meetings",
-    "section": "Week 5",
-    "text": "Week 5\nComments: add your (full) meetings to [this calendar] (current meeting organizers have permissions); add your roles to the [project assignments spreadsheet].\n\nMonday meeting: CCBER [slides] [handout]; Caves lab [slides] [handout]",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-6",
-    "href": "class-meetings.html#week-6",
-    "title": "Class meetings",
-    "section": "Week 6",
-    "text": "Week 6\nComments: complete pre-workshop instructions (see below) before next week; peer reviews due this week.\n\nMonday meeting: Carpe Data [slides] [handout]; CalCOFI [slides] [handout]\nPeer reviews due Friday 2/17 11:59pm PST [form]\nHPC workshop next week, Wednesday 2/22 2pm-3pm in Elings 1601. To prepare:\n\nat least one student per team should attend, RSVP here\nhave one attending student per team create a CSC account with the following details\n\nidentify Trevor as your academic advisor\nprovide “data science capstone project” as the project description\nindicate that your project is not NSF-funded\n\nhave the same student verify that they can connect to the Pod cluster\n\nnote windows users will need to download the PuTTy SSH client to connect\nall users will need to be behind the campus VPN if connecting from off campus (see instructions if you are connecting from off campus)\n\nlastly, have the same student install FileZilla and ensure they can open a session (see instructions above for connecting to the Pod cluster)",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-7",
-    "href": "class-meetings.html#week-7",
-    "title": "Class meetings",
-    "section": "Week 7",
-    "text": "Week 7\nComments: no class meeting (President’s day)\n\nWednesday: high-performance computing (HPC) workshop [slides]",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-8",
-    "href": "class-meetings.html#week-8",
-    "title": "Class meetings",
-    "section": "Week 8",
-    "text": "Week 8\nComments: class meetings will be held both Monday and Wednesday, with a shorter meeting on Wednesday; add codes distributed for (most of) 197C and should follow shortly for 190DF (and the rest), please enroll for 4 credits.\n\nMonday meeting: Patrick Green [slides] [handout]; MOVE lab [slides] [handout]\nWednesday meeting: Evidation [slides] [handout]",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-9",
-    "href": "class-meetings.html#week-9",
-    "title": "Class meetings",
-    "section": "Week 9",
-    "text": "Week 9\n\nMonday meeting: Climate Hazards Center, Greg’s group [slides] [handout] and Shrad’s group [slides] [handout]\nClass assignments:\n\ninterim reports are due Friday 3/17 11:59pm PST\nsee guidelines for interim reports",
-    "crumbs": [
-      "Class meetings"
-    ]
-  },
-  {
-    "objectID": "class-meetings.html#week-10",
-    "href": "class-meetings.html#week-10",
-    "title": "Class meetings",
-    "section": "Week 10",
-    "text": "Week 10\nComments: do meet with your teams this week, set aside some time in this last meeting to reflect and set goals for next quarter; take a break from meetings during finals week and spring break; no further class meetings planned for the quarter.\n\nMonday meeting: P3 [slides] [handout]; SLAC [slides] [handout]",
+    "text": "Week 2\n\nComments: re-read your project abstract before your team meeting.\nThursday meeting: getting started and tips for success",
     "crumbs": [
       "Class meetings"
     ]
@@ -232,7 +142,7 @@
     "href": "about/schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\nWeek\nClass meeting\nAssignments/comments\n\n\n\n\n1 (1/9/23)\nIntroduction and class logistics\n\n\n\n2 (1/16/23)\nPanel: past project experiences\nClass meets WEDNESDAY\nMotivational statements due Friday\n\n\n3 (1/23/23)\nGetting started and tips for success\nTeam contracts due Friday\n\n\n4 (1/30/23)\nAmgen, Appfolio\n\n\n\n5 (2/6/23)\nCCBER, Caves lab\n\n\n\n6 (2/13/23)\nCarpe Data, CalCOFI\nPeer evaluations due Friday\n\n\n7 (2/20/23)\nHPC workshop\nNo class meetings\nWorkshop on WEDNESDAY in Elings 1601\n\n\n8 (2/27/23)\nMonday: EEMB Patrick, MOVE lab\nWednesday: Evidation\nClass meets MONDAY AND WEDNESDAY\n\n\n9 (3/6/23)\nClimate Hazards teams\n\n\n\n10 (3/13/23)\nP3, SLAC\nInterim report due Friday\n\n\n11 (finals)\nN/A\nIndividual reflections due Thursday",
+    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\n\nWeek\n1 (1/6/26)\nClass meeting\nIntroduction and class logistics\nAssignments/comments | ======================================+ Motivational statements due Friday\n\n\n\n\n2 (1/13/26)\n  Getting started and tips for success                               | Team contracts due Friday   |\n                                 |                                      |\n                                 |                                      |\n\n\n3 (1/20/26)\nTBD | |\n\n\n4 (1/27/26)\nBlueAlpha Projects 1 and 2 | |\n\n\n5 (2/3/26)\nBlueAlpha Project 3, Brian Codding | |\n\n\n6 (2/10/26)\nCalCOFI groups | Peer evaluations due Friday |\n\n\n7 (2/17/26)\nTBD | | | | | |\n\n\n8 (2/24/26)\nTuesday: NationBuilder, Neuroscience Research Institute | Class meets Tuesday AND Thursday | | | Thursday: P3, SLO Probation Dept | |\n\n\n9 (3/3/26)\nScripps Institute, Singularity Solutions | |\n\n\n10 (3/10/26)\nSoojin Yi, SoundEthics | Interim report due Friday |\n\n\n11 (finals)\nN/A\nIndividual reflections due Thursday",
     "crumbs": [
       "Schedule"
     ]
@@ -249,21 +159,21 @@
     "href": "slides/week1-intro.html#course-structure",
     "title": "Welcome to Data Science Capstone",
     "section": "Course structure",
-    "text": "Course structure\n\n1 weekly class meeting, usually Mondays, except Wednesday meetings weeks 2 and 7 (MLK and Prez days)\n1 weekly team meeting, scheduled at a time of your choice\noptional but highly recommended: second team meeting or working session without advisors\nfew class assignments each term:\n\none short presentation\nmid-term peer review\nsummative deliverable at end of term"
+    "text": "Course structure\n\n1 weekly class meeting, on Tuesdays\n1 weekly team meeting, scheduled at a time of your choice (suggest Thursdays, during class time; 2:00 - 3:00 PM)\noptional but highly recommended: second team meeting or working session without advisors (suggest during your section time)\nfew class assignments each term:\n\none short presentation\nmid-term peer review\nsummative deliverable at end of term"
   },
   {
     "objectID": "slides/week1-intro.html#expectations",
     "href": "slides/week1-intro.html#expectations",
     "title": "Welcome to Data Science Capstone",
     "section": "Expectations",
-    "text": "Expectations\n\nweekly time commitment: 12h = 2h in meetings + 10h on projects\nengage fully in project work, with some accountability:\n\ndraft, sign, and adhere to a team contract\ntake on one pre-defined organizational role in your team\nparticipate in peer reviews once per quarter"
+    "text": "Expectations\n\nweekly time commitment: 12h = 2-3h in meetings + 9-10h on projects\nengage fully in project work, with some accountability:\n\ndraft, sign, and adhere to a team contract\ntake on one pre-defined organizational role in your team\nparticipate in peer reviews once per quarter"
   },
   {
     "objectID": "slides/week1-intro.html#roles",
     "href": "slides/week1-intro.html#roles",
     "title": "Welcome to Data Science Capstone",
     "section": "Roles",
-    "text": "Roles\nYou’ll take on one of the following roles:\n\nspokesperson\nmeeting organizer\nnote-taker\nrepository and data manager\nfor five-person teams, equity manager"
+    "text": "Roles\nYou’ll take on one of the following roles:\n\nspokesperson\nmeeting organizer\nnote-taker\nrepository and data manager\nfor five-person teams, equity manager\nfor three-person teams, meeting organizer and note-taker combine"
   },
   {
     "objectID": "slides/week1-intro.html#peer-review",
@@ -291,13 +201,13 @@
     "href": "slides/week1-intro.html#initial-meetings",
     "title": "Welcome to Data Science Capstone",
     "section": "Initial meetings",
-    "text": "Initial meetings\nSchedule an initial meeting for week 2. Can recommend: Slack channel + [when2meet].\nSuggested agenda:\n\nintroductions (15m):\n\nname, position/background, fun fact\nsomething exciting about the project\n\nproject intro (20m)\n\nhave sponsor tell you about the project in detail in their own words\nfocus on the big picture, ask questions\n\ndata access and logistics (10m)\n\nmake arrangements to access/obtain data\n\naction items (10m)\n\ndetermine what actions will be taken before the next meeting\nassign responsibility for each action"
+    "text": "Initial meetings\nSchedule an initial meeting for week 2. Can recommend: Slack channel + [when2meet].\nSuggested agenda:\n\nintroductions (15m):\n\nname, position/background, fun fact\nsomething exciting about the project\n\nproject intro (20m)\n\nhave mentor tell you about the project in detail in their own words\nfocus on the big picture, ask questions\n\ndata access and logistics (10m)\n\nmake arrangements to access/obtain data\n\naction items (10m)\n\ndetermine what actions will be taken before the next meeting\nassign responsibility for each action"
   },
   {
     "objectID": "slides/week1-intro.html#assignments",
     "href": "slides/week1-intro.html#assignments",
     "title": "Welcome to Data Science Capstone",
     "section": "Assignments",
-    "text": "Assignments\n\nMotivational statement due Friday 1/20 11:59pm PST. Take some time to write a paragraph or two in response to the following prompts:\n\nWhy are you participating in the capstone? What attracted you to the opportunity in the first place and how does it relate to your goals for your undergraduate education?\nWhat do you hope to get out of the experience? Why is that important to you?\nSubmit via Google form\n\nTeam contracts due Friday 1/27 11:59pm PST. See template."
+    "text": "Assignments\n\nMotivational statement due Friday 1/9 11:59pm PST. Take some time to write a paragraph or two in response to the following prompts:\n\nWhy are you participating in the capstone? What attracted you to the opportunity in the first place and how does it relate to your goals for your undergraduate education?\nWhat do you hope to get out of the experience? Why is that important to you?\nSubmit via Google form\n\nTeam contracts due Friday 1/16 11:59pm PST. See template.\n\n[Upload signed copy to Google drive]"
   }
 ]
