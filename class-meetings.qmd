@@ -26,27 +26,25 @@ title: "Class meetings"
 
 ## Week 2
 
--   *Comments:* re-read your project abstract before your team meeting.
+-   *Comments:* re-read your \[[project abstract](https://docs.google.com/document/d/126Cb9GGamsRS2DNRGuycJp-blcfoJNyYUHF2IKUoM1c/edit?usp=sharing)\] before your team meeting.
 
--   *Thursday meeting:* getting started and tips for success
+-   *Tuesday meeting:* getting started and tips for success \[[slides](https://docs.google.com/presentation/d/13VAAn2n-Jv1pPhXBA863wgVx9MLW0H8SqvJvOKZaHs0/edit?usp=sharing)\]
 
-<!-- -   *Thursday meeting:* student panel on past project experiences -->
-
-<!-- ## Week 3 -->
+## Week 3
 
 <!-- *Comments:* teams should have data in hand this week; presentation schedule updated; contracts due Friday 1/27; see [meeting notes template](https://docs.google.com/document/d/1Gcnq5osybY0mLhqpffguQoVf76MD4Xl0gPPWWv-7weI/edit?usp=sharing) -->
 
+-   *Tuesday meeting:* student panel on past project experiences
+
 <!-- -   *Monday meeting:* getting started and tips for success \[[slides](https://docs.google.com/presentation/d/1xAnI-zn-JYmTb5kPhq22oDuKcT4buvBbRFtpsyN2l_o/edit?usp=sharing)\] -->
 
-<!-- -   In-class presentations to begin next week; should focus on project background, data, goals, and current/planned work -->
+-   In-class presentations to begin next week; should focus on project background, data, goals, and current/planned work
 
-<!--     -   format: 20min presentation + 10min discussion -->
+    -   format: 20-25min presentation + 5-10min discussion
 
-<!--     -   to prepare: 10-15 slides and 1-2 page handout 24h in advance -->
+    -   to prepare: 10-15 slides and 1-2 page handout 24h in advance
 
-<!--     -   \[[handout template](https://docs.google.com/document/d/1ra6-28dQKfS4HnsMP_j19qRGfrQngI_HpjZ6YxW9Chw/edit?usp=sharing)\] \[[evaluation rubric](https://docs.google.com/document/d/17xafDkkMzrOD2a9pFIVQainnRSCBvC-YMfaEYVzpses/edit?usp=sharing)\] \[[last year's presentations](https://drive.google.com/drive/folders/1Iw6PtIs_A6NUgItVcIqdHk4gvvN0_QVq?usp=share_link)\] -->
-
-<!--     -   *note* last year's presentations were all given at the end of the quarter and ran 10m shorter -->
+    -   \[[handout template](https://docs.google.com/document/d/1xnHIVUwgd_0z0hRmE6Q41oPOEbEH2DxYIC5mDJwgDlU/edit?usp=sharing)\] \[[evaluation rubric](https://docs.google.com/document/d/1p5Ys3rEeMFqDfb-c2bJm87PFA1RowgkcF98SV95BaRs/edit?usp=sharing)\] \[[last year's presentations and handouts](https://drive.google.com/drive/folders/1aW_BBZl9R3gQEQvFszdGL1ypvfqxpy5m?usp=sharing)\]
 
 <!-- ## Week 4 -->
 
