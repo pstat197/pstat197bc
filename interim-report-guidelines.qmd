@@ -19,7 +19,7 @@ Avoid jargon, define key terms or acronyms when they first appear, and dedicate 
 
 ### Length
 
-The report should be no less than 5 pages and no more than 10 pages. If necessary, you can include supplementary material or appendices following the main body of the report or as separate files/documents.
+The report should be no less than 5 pages and no more than 10 pages (not including figures or tables). If necessary, you can include supplementary material or appendices following the main body of the report or as separate files/documents.
 
 ### Content
 
@@ -59,7 +59,7 @@ Organize your report into the sections outlined below. Use subheadings as approp
 
 Your report should be in PDF (.pdf) or Word (.docx) format.
 
-All figures and tables should be labeled and captioned, *e.g.*, "**Fig. 1:** map of sampling locations in 2018".
+All figures and tables should be labeled and captioned, *e.g.*, "**Fig. 1:** map of sampling locations in 2020".
 
 Copies of any figures should be provided as separate images in JPEG, TIFF, or PNG format; images should have a resolution of at least 300 dots per inch (dpi).
 
@@ -67,12 +67,14 @@ Supplementary material can be submitted in any format.
 
 <!-- ## How to submit -->
 
-<!-- Upload your PDF report and any supplementary files to this [Drive folder](https://drive.google.com/drive/folders/1w4Cp0AoUHY8O_6VSg_XOi2ftgJ4GycpN?usp=share_link). Use the naming conventions: -->
+<!-- Upload your PDF report and any supplementary files to this [Drive folder](https://drive.google.com/drive/folders/1SE8uk3J6IWrzHhzRelKyIUmsoeqSBdZF?usp=sharing). Use the naming conventions: -->
 
-<!-- -   report document: `TEAM-interim-report-w23.pdf` -->
+<!-- -   report document: `TEAM_NAME-interim-report-w26.pdf` -->
 
-<!-- <!-- --> -->
+<!-- <!-- -->
 
-<!-- -   copies of figures from the report: `img/TEAM-fig1.png` (filename should match figure label in document) -->
+--\>
 
-<!-- -   supplementary material: `TEAM-[description].[extention]` -->
+<!-- -   copies of figures from the report: `img/TEAM_NAME-fig1.png` (filename should match figure label in document) -->
+
+<!-- -   supplementary material: `TEAM_NAME-[description].[extension]` -->
