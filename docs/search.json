@@ -28,13 +28,106 @@
     "text": "How to submit\nUpload your PDF report and any supplementary files to this Drive folder. Use the naming conventions:\n\nreport document: TEAM_NAME-interim-report-w26.pdf\ncopies of figures from the report: img/TEAM_NAME-fig1.png (filename should match figure label in document) –&gt;\nsupplementary material: TEAM_NAME-[description].[extension]"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data science capstone",
+    "objectID": "slides/week1-intro.html#capstone-goals",
+    "href": "slides/week1-intro.html#capstone-goals",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Capstone goals",
+    "text": "Capstone goals\n\nmake original contributions on your research topic;\ndevelop domain expertise in your project area(s);\ndevelop and practice communicating research outcomes to diverse audiences;\nimprove collaboration and teamwork skills;\nadvance your career development;\nproduce a strong work sample for your professional portfolio"
+  },
+  {
+    "objectID": "slides/week1-intro.html#course-structure",
+    "href": "slides/week1-intro.html#course-structure",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Course structure",
+    "text": "Course structure\n\n1 weekly class meeting, on Tuesdays\n1 weekly team meeting, scheduled at a time of your choice (suggest Thursdays, during class time; 2:00 - 3:00 PM)\noptional but highly recommended: second team meeting or working session without advisors (suggest during your section time)\nfew class assignments each term:\n\none short presentation\nmid-term peer review\nsummative deliverable at end of term"
+  },
+  {
+    "objectID": "slides/week1-intro.html#expectations",
+    "href": "slides/week1-intro.html#expectations",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Expectations",
+    "text": "Expectations\n\nweekly time commitment: 12h = 2-3h in meetings + 9-10h on projects\nengage fully in project work, with some accountability:\n\ndraft, sign, and adhere to a team contract\ntake on one pre-defined organizational role in your team\nparticipate in peer reviews once per quarter"
+  },
+  {
+    "objectID": "slides/week1-intro.html#roles",
+    "href": "slides/week1-intro.html#roles",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Roles",
+    "text": "Roles\nYou’ll take on one of the following roles:\n\nspokesperson\nmeeting organizer\nnote-taker\nrepository and data manager\nfor five-person teams, equity manager\nfor three-person teams, meeting organizer and note-taker combine"
+  },
+  {
+    "objectID": "slides/week1-intro.html#peer-review",
+    "href": "slides/week1-intro.html#peer-review",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Peer review",
+    "text": "Peer review\nEach quarter you’ll evaluate yourself/teammates on the extent to which you/they achieved the following:\n\nAttended, participated in, and contributed to project meetings\nHonored agreements specified in the team contract\nFulfilled assigned team role\nContributed fair share of work\nCooperated with teammates\nCommunicated clearly and respectfully with teammates\nHelped teammates when asked"
+  },
+  {
+    "objectID": "slides/week1-intro.html#class-meetings",
+    "href": "slides/week1-intro.html#class-meetings",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Class meetings",
+    "text": "Class meetings\nClass meetings will be run like a seminar: we’ll rotate through the project teams, with two teams presenting each meeting.\n\n~30min available per team, but budget time for discussion\ncurrently in alphabetical order, but can swap by mutual agreement\nto prepare: at least 10 slides and 1-2 page handout\nfurther guidelines TBA"
+  },
+  {
+    "objectID": "slides/week1-intro.html#assessments",
+    "href": "slides/week1-intro.html#assessments",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Assessments",
+    "text": "Assessments\n\nattendance record and class assignments;\nend-of-term advisor assessments of individual participation and contributions;\ninstructor assessments of in-class presentations and poster;\npeer reviews and end-of-term individual reflections."
+  },
+  {
+    "objectID": "slides/week1-intro.html#initial-meetings",
+    "href": "slides/week1-intro.html#initial-meetings",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Initial meetings",
+    "text": "Initial meetings\nSchedule an initial meeting for week 2. Can recommend: Slack channel + [when2meet].\nSuggested agenda:\n\nintroductions (15m):\n\nname, position/background, fun fact\nsomething exciting about the project\n\nproject intro (20m)\n\nhave mentor tell you about the project in detail in their own words\nfocus on the big picture, ask questions\n\ndata access and logistics (10m)\n\nmake arrangements to access/obtain data\n\naction items (10m)\n\ndetermine what actions will be taken before the next meeting\nassign responsibility for each action"
+  },
+  {
+    "objectID": "slides/week1-intro.html#assignments",
+    "href": "slides/week1-intro.html#assignments",
+    "title": "Welcome to Data Science Capstone",
+    "section": "Assignments",
+    "text": "Assignments\n\nMotivational statement due Friday 1/9 11:59pm PST. Take some time to write a paragraph or two in response to the following prompts:\n\nWhy are you participating in the capstone? What attracted you to the opportunity in the first place and how does it relate to your goals for your undergraduate education?\nWhat do you hope to get out of the experience? Why is that important to you?\nSubmit via Google form\n\nTeam contracts due Friday 1/16 11:59pm PST. See template.\n\n[Upload signed copy to Google drive]"
+  },
+  {
+    "objectID": "about/schedule.html",
+    "href": "about/schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "PSTAT197A-B/CMPSC190DE-DF comprise the research project component of UC Santa Barbara’s yearlong data science capstone sequence. The course provides data science, statistics, and computational science research experiences to undergraduate students of any discipline. Students carry out an end-to-end project over two terms in collaboration with a lab or industry partner and advised by a graduate student or faculty mentor.\nThis site hosts course information and resources for currently enrolled students.",
+    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\nWeek\nClass meeting\nAssignments/comments\n\n\n\n\n1 (3/31/26)\nIntroduction, spring quarter overview\n\n\n\n2 (4/7/26)\nIndividual presentations\n\n\n\n3 (4/14/26)\nIndividual presentations\n\n\n\n4 (4/21/26)\nIndividual presentations\n\n\n\n5 (4/28/26)\nWorkshopping: figure drafts / figures\n\n\n\n6 (5/5/26)\nWorkshopping: poster drafts\nPeer evaluations due Friday\n\n\n7 (5/12/26)\nIndividual presentations\nPosters DUE by Mon. May 18th\n\n\n8 (5/19/26)\nIndividual presentations\n\n\n\n9 (5/29/26)\nPublic showcase\nCorwin + adjoining rooms, UCEN\n\n\n10 (6/2/26)\nOffice hours\nIndividual project summaries due June 12th (6/12)",
     "crumbs": [
-      "Home"
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "class-meetings.html",
+    "href": "class-meetings.html",
+    "title": "Class meetings",
+    "section": "",
+    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for Spring posters] – upload your posters here by Monday, March 18th. They will be printed.\n[Drive folder for Spring individual presentations] – upload your slides here before your presentation.\n[Individual presentation guidelines] –&gt;",
+    "crumbs": [
+      "Class meetings"
+    ]
+  },
+  {
+    "objectID": "class-meetings.html#links-related-to-class-meetings",
+    "href": "class-meetings.html#links-related-to-class-meetings",
+    "title": "Class meetings",
+    "section": "",
+    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for Spring posters] – upload your posters here by Monday, March 18th. They will be printed.\n[Drive folder for Spring individual presentations] – upload your slides here before your presentation.\n[Individual presentation guidelines] –&gt;",
+    "crumbs": [
+      "Class meetings"
+    ]
+  },
+  {
+    "objectID": "class-meetings.html#week-1",
+    "href": "class-meetings.html#week-1",
+    "title": "Class meetings",
+    "section": "Week 1",
+    "text": "Week 1\n\nTuesday meeting: welcome back and spring quarter overview [slides]",
+    "crumbs": [
+      "Class meetings"
     ]
   },
   {
@@ -108,106 +201,34 @@
     ]
   },
   {
-    "objectID": "class-meetings.html",
-    "href": "class-meetings.html",
-    "title": "Class meetings",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data science capstone",
     "section": "",
-    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for Spring posters] – upload your posters here by Monday, March 18th. They will be printed.\n[Drive folder for Spring individual presentations] – upload your slides here before your presentation.",
+    "text": "PSTAT197A-B/CMPSC190DE-DF comprise the research project component of UC Santa Barbara’s yearlong data science capstone sequence. The course provides data science, statistics, and computational science research experiences to undergraduate students of any discipline. Students carry out an end-to-end project over two terms in collaboration with a lab or industry partner and advised by a graduate student or faculty mentor.\nThis site hosts course information and resources for currently enrolled students.",
     "crumbs": [
-      "Class meetings"
+      "Home"
     ]
   },
   {
-    "objectID": "class-meetings.html#links-related-to-class-meetings",
-    "href": "class-meetings.html#links-related-to-class-meetings",
-    "title": "Class meetings",
+    "objectID": "work-in-progress-presentation-guidelines.html",
+    "href": "work-in-progress-presentation-guidelines.html",
+    "title": "Work-in-progress presentations",
     "section": "",
-    "text": "[Attendance reporting form] – fill out once per class meeting.\n[Drive folder for Spring posters] – upload your posters here by Monday, March 18th. They will be printed.\n[Drive folder for Spring individual presentations] – upload your slides here before your presentation.",
-    "crumbs": [
-      "Class meetings"
-    ]
+    "text": "These work-in-progress presentations are intended to provide:\nWork-in-progress presentations should not aim to provide a broad overview of the project, but instead focus on the leading edge of your (not your teammates’) efforts. So, your goal as presenter should be to identify the most pressing problem you’re currently working on resolving, bring your audience up to speed on that problem, and pose a few specific questions you’d like the group to discuss with you."
   },
   {
-    "objectID": "class-meetings.html#week-1",
-    "href": "class-meetings.html#week-1",
-    "title": "Class meetings",
-    "section": "Week 1",
-    "text": "Week 1\n\nTuesday meeting: welcome back and spring quarter overview [slides]",
-    "crumbs": [
-      "Class meetings"
-    ]
+    "objectID": "work-in-progress-presentation-guidelines.html#content",
+    "href": "work-in-progress-presentation-guidelines.html#content",
+    "title": "Work-in-progress presentations",
+    "section": "Content",
+    "text": "Content\nYou will have 15 minutes to present the problem you’re currently working on. In this time, you should cover the following points with roughly the suggested time allocations:\n\n(1min) remind the group which project you’re working on and what the overarching goal is\n(2min) identify the specific problem you’re working on addressing right now\n(10min) explain the problem in detail, filling in background information, data attributes, relevant aspects of software design, prior results, etc., as needed as you go\n(2min) pose a few specific questions you’d like to discuss or want advice on\n\nFollowing your presentation, your group will have 15 minutes for discussion (see agenda below).\n\nThink of the presentation less in terms of performing … and more in terms of getting the help you need from others to make further progress. In that spirit, make sure you allow time to present the leading edge of your work. That means you need to be economical in how you get listeners up to steam about the aspects of your project that you already have firmly in place.\n\nYou should aim to cover exactly the material the audience needs to be in an informed position relative to the questions you pose at the end."
   },
   {
-    "objectID": "about/schedule.html",
-    "href": "about/schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Schedule is tentative and subject to change. Check back for updates.\n\n\n\n\n\n\n\nWeek\nClass meeting\nAssignments/comments\n\n\n\n\n1 (3/31/26)\nIntroduction, spring quarter overview\n\n\n\n2 (4/7/26)\nIndividual presentations\n\n\n\n3 (4/14/26)\nIndividual presentations\n\n\n\n4 (4/21/26)\nIndividual presentations\n\n\n\n5 (4/28/26)\nWorkshopping: figure drafts / figures\n\n\n\n6 (5/5/26)\nWorkshopping: poster drafts\nPeer evaluations due Friday\n\n\n7 (5/12/26)\nIndividual presentations\nPosters DUE by Mon. May 18th\n\n\n8 (5/19/26)\nIndividual presentations\n\n\n\n9 (5/29/26)\nPublic showcase\nCorwin + adjoining rooms, UCEN\n\n\n10 (6/2/26)\nOffice hours\nIndividual project summaries due June 12th (6/12)",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "slides/week1-intro.html#capstone-goals",
-    "href": "slides/week1-intro.html#capstone-goals",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Capstone goals",
-    "text": "Capstone goals\n\nmake original contributions on your research topic;\ndevelop domain expertise in your project area(s);\ndevelop and practice communicating research outcomes to diverse audiences;\nimprove collaboration and teamwork skills;\nadvance your career development;\nproduce a strong work sample for your professional portfolio"
-  },
-  {
-    "objectID": "slides/week1-intro.html#course-structure",
-    "href": "slides/week1-intro.html#course-structure",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Course structure",
-    "text": "Course structure\n\n1 weekly class meeting, on Tuesdays\n1 weekly team meeting, scheduled at a time of your choice (suggest Thursdays, during class time; 2:00 - 3:00 PM)\noptional but highly recommended: second team meeting or working session without advisors (suggest during your section time)\nfew class assignments each term:\n\none short presentation\nmid-term peer review\nsummative deliverable at end of term"
-  },
-  {
-    "objectID": "slides/week1-intro.html#expectations",
-    "href": "slides/week1-intro.html#expectations",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Expectations",
-    "text": "Expectations\n\nweekly time commitment: 12h = 2-3h in meetings + 9-10h on projects\nengage fully in project work, with some accountability:\n\ndraft, sign, and adhere to a team contract\ntake on one pre-defined organizational role in your team\nparticipate in peer reviews once per quarter"
-  },
-  {
-    "objectID": "slides/week1-intro.html#roles",
-    "href": "slides/week1-intro.html#roles",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Roles",
-    "text": "Roles\nYou’ll take on one of the following roles:\n\nspokesperson\nmeeting organizer\nnote-taker\nrepository and data manager\nfor five-person teams, equity manager\nfor three-person teams, meeting organizer and note-taker combine"
-  },
-  {
-    "objectID": "slides/week1-intro.html#peer-review",
-    "href": "slides/week1-intro.html#peer-review",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Peer review",
-    "text": "Peer review\nEach quarter you’ll evaluate yourself/teammates on the extent to which you/they achieved the following:\n\nAttended, participated in, and contributed to project meetings\nHonored agreements specified in the team contract\nFulfilled assigned team role\nContributed fair share of work\nCooperated with teammates\nCommunicated clearly and respectfully with teammates\nHelped teammates when asked"
-  },
-  {
-    "objectID": "slides/week1-intro.html#class-meetings",
-    "href": "slides/week1-intro.html#class-meetings",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Class meetings",
-    "text": "Class meetings\nClass meetings will be run like a seminar: we’ll rotate through the project teams, with two teams presenting each meeting.\n\n~30min available per team, but budget time for discussion\ncurrently in alphabetical order, but can swap by mutual agreement\nto prepare: at least 10 slides and 1-2 page handout\nfurther guidelines TBA"
-  },
-  {
-    "objectID": "slides/week1-intro.html#assessments",
-    "href": "slides/week1-intro.html#assessments",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Assessments",
-    "text": "Assessments\n\nattendance record and class assignments;\nend-of-term advisor assessments of individual participation and contributions;\ninstructor assessments of in-class presentations and poster;\npeer reviews and end-of-term individual reflections."
-  },
-  {
-    "objectID": "slides/week1-intro.html#initial-meetings",
-    "href": "slides/week1-intro.html#initial-meetings",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Initial meetings",
-    "text": "Initial meetings\nSchedule an initial meeting for week 2. Can recommend: Slack channel + [when2meet].\nSuggested agenda:\n\nintroductions (15m):\n\nname, position/background, fun fact\nsomething exciting about the project\n\nproject intro (20m)\n\nhave mentor tell you about the project in detail in their own words\nfocus on the big picture, ask questions\n\ndata access and logistics (10m)\n\nmake arrangements to access/obtain data\n\naction items (10m)\n\ndetermine what actions will be taken before the next meeting\nassign responsibility for each action"
-  },
-  {
-    "objectID": "slides/week1-intro.html#assignments",
-    "href": "slides/week1-intro.html#assignments",
-    "title": "Welcome to Data Science Capstone",
-    "section": "Assignments",
-    "text": "Assignments\n\nMotivational statement due Friday 1/9 11:59pm PST. Take some time to write a paragraph or two in response to the following prompts:\n\nWhy are you participating in the capstone? What attracted you to the opportunity in the first place and how does it relate to your goals for your undergraduate education?\nWhat do you hope to get out of the experience? Why is that important to you?\nSubmit via Google form\n\nTeam contracts due Friday 1/16 11:59pm PST. See template.\n\n[Upload signed copy to Google drive]"
+    "objectID": "work-in-progress-presentation-guidelines.html#agenda",
+    "href": "work-in-progress-presentation-guidelines.html#agenda",
+    "title": "Work-in-progress presentations",
+    "section": "Agenda",
+    "text": "Agenda\nFor each presentation, the group should follow this agenda:\n\n(15min) Work-in-progress presentation\n(5min) As a group, do the following:\n\nMake sure the audience is all on the same page: are there any aspects of the presentation that need to be clarified? Details that someone at the group wasn’t able to follow? Technical terms that need definition?\nSelect 2 audience members to reflect the presenter’s problem back – have them restate the problem in their own words. Ask the presenter: did they understand the problem correctly?\n\n\nWe will take a 5 minute break between presentations each class meeting."
   }
 ]
