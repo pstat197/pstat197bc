@@ -10,7 +10,7 @@ title: "Class meetings"
 
 \[[Drive folder for Spring individual presentations](https://drive.google.com/drive/folders/1nxEUk6WGz51O55Ss752BZtvs4zXfu93y?usp=sharing)\] -- upload your slides here before your presentation.
 
-\[[Individual presentation guidelines](work-in-progress-presentation-guidelines.qmd)\] -->
+\[[Individual presentation guidelines](work-in-progress-presentation-guidelines.qmd)\]
 
 <!-- SPRING NOTES -->
 <!-- https://capstone-24-25.github.io/Class-content/pstat197bc/about-spring-meetings.html -->
