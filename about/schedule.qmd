@@ -2,34 +2,65 @@
 title: "Schedule"
 ---
 
+
 +--------------+--------------------------------------+--------------------------------------+
 | Week         | Class meeting                        | Assignments/comments                 |
 +==============+======================================+======================================+
-| 1 (1/6/26)   | Introduction and class logistics     | Motivational statements due Friday   |
+| 1 (3/31/26)  | Introduction, spring quarter overview|                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 2 (1/13/26)  | Getting started and tips for success | Team contracts due Friday            |
+| 2 (4/7/26)   | Individual presentations             |                                      |
 |              |                                      |                                      |
 |              |                                      |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 3 (1/20/26)  | Q and A with previous students       |                                      |
+| 3 (4/14/26)  | Individual presentations             |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 4 (1/27/26)  | BlueAlpha Projects 1 and 2           |                                      |
+| 4 (4/21/26)  | Individual presentations             |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 5 (2/3/26)   | BlueAlpha Project 3, Brian Codding   |                                      |
+| 5 (4/28/26)  | Workshopping: figure drafts / figures|                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 6 (2/10/26)  | Project work session                 | Peer evaluations due Friday          |
+| 6 (5/5/26)   | Workshopping: poster drafts          | Peer evaluations due Friday          |
 +--------------+--------------------------------------+--------------------------------------+
-| 7 (2/17/26)  | Both CalCOFI Projects                |                                      |
+| 7 (5/12/26)  | Individual presentations             | Posters DUE by Mon. May 18th         |
 +--------------+--------------------------------------+--------------------------------------+
-| 8 (2/24/26)  | *Tuesday:* NationBuilder,            | Class meets Tuesday *AND* Thursday   |
-|              | Neuroscience Research Institute      |                                      |
-|              | *Thursday:* P3, Scripps              |                                      |
+| 8 (5/19/26)  | Individual presentations             |                                      |
 +--------------+--------------------------------------+--------------------------------------+
-| 9 (3/3/26)   | SLO Probation, Singularity Solutions |                                      |
+| 9 (5/29/26)  | Public showcase                      | Corwin + adjoining rooms, UCEN       |
 +--------------+--------------------------------------+--------------------------------------+
-| 10 (3/10/26) | Soojin Yi, SoundEthics               | Interim report due Friday            |
-+--------------+--------------------------------------+--------------------------------------+
-| 11 (finals)  | N/A                                  | Individual reflections due Thursday  |
+| 10 (6/2/26)  | Office hours                         | Individual project summaries due     |
+|              |                                      | June 12th (6/12)                     |
 +--------------+--------------------------------------+--------------------------------------+
 
 : Schedule is tentative and subject to change. Check back for updates.
+
+<!-- WINTER SCHEDULE 197B 
++--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | Week         | Class meeting                        | Assignments/comments                 | -->
+<!-- +==============+======================================+======================================+ -->
+<!-- | 1 (1/6/26)   | Introduction and class logistics     | Motivational statements due Friday   | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 2 (1/13/26)  | Getting started and tips for success | Team contracts due Friday            | -->
+<!-- |              |                                      |                                      | -->
+<!-- |              |                                      |                                      | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 3 (1/20/26)  | Q and A with previous students       |                                      | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 4 (1/27/26)  | BlueAlpha Projects 1 and 2           |                                      | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 5 (2/3/26)   | BlueAlpha Project 3, Brian Codding   |                                      | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 6 (2/10/26)  | Project work session                 | Peer evaluations due Friday          | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 7 (2/17/26)  | Both CalCOFI Projects                |                                      | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 8 (2/24/26)  | *Tuesday:* NationBuilder,            | Class meets Tuesday *AND* Thursday   | -->
+<!-- |              | Neuroscience Research Institute      |                                      | -->
+<!-- |              | *Thursday:* P3, Scripps              |                                      | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 9 (3/3/26)   | SLO Probation, Singularity Solutions |                                      | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 10 (3/10/26) | Soojin Yi, SoundEthics               | Interim report due Friday            | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+<!-- | 11 (finals)  | N/A                                  | Individual reflections due Thursday  | -->
+<!-- +--------------+--------------------------------------+--------------------------------------+ -->
+
+<!-- : Schedule is tentative and subject to change. Check back for updates. -->
