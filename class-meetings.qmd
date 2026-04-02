@@ -6,7 +6,7 @@ title: "Class meetings"
 
 \[[Attendance reporting form](https://forms.gle/vUwQkqhMGung4Hrg9)\] -- fill out once per class meeting.
 
-\[[Drive folder for Spring posters](https://drive.google.com/drive/folders/1aWOk-4tWI8X8xgHe3NQ4QwLTi_ubQ-fl?usp=sharing)\] -- upload your posters here by Monday, March 18th. They will be printed.
+\[[Drive folder for Spring posters](https://drive.google.com/drive/folders/1aWOk-4tWI8X8xgHe3NQ4QwLTi_ubQ-fl?usp=sharing)\] -- upload your posters here by Monday, May 18th. They will be printed.
 
 \[[Drive folder for Spring individual presentations](https://drive.google.com/drive/folders/1nxEUk6WGz51O55Ss752BZtvs4zXfu93y?usp=sharing)\] -- upload your slides here before your presentation.
 
@@ -19,7 +19,17 @@ title: "Class meetings"
 
 -   *Tuesday meeting*: welcome back and spring quarter overview \[[slides](https://docs.google.com/presentation/d/1NYenUZPjGDdXbmPvfj64KTf0CblnhBygtHaIYuCgjmc/edit?usp=sharing)\]
 
-<!-- -   *Comments:* teams should be scheduling their initial project meetings this week, to take place during week 2. -->
+-   In-class presentations to begin next week; should focus on one or two problems that *you* are currently working on
+
+    -   format: 15min presentation + 5-10min discussion
+
+    -   recommend preparing some slides/materials at least 24 hours in advance
+
+    -   \[[upload your materials here to share](https://drive.google.com/drive/folders/1nxEUk6WGz51O55Ss752BZtvs4zXfu93y?usp=sharing)\]
+
+## Week 2
+
+-   *Tuesday meeting*: \[[see presenters here](https://docs.google.com/spreadsheets/d/1Zg33y5zmrTKaDziRkElMucAtOXRJNSTzGi22EiyaTOI/edit?usp=sharing)\]
 
 <!-- -   *Tuesday meeting*: course overview \[[slides](slides/week1-intro.qmd)\] -->
 
