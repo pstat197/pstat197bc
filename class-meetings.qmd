@@ -12,6 +12,8 @@ title: "Class meetings"
 
 \[[Individual presentation guidelines](work-in-progress-presentation-guidelines.qmd)\]
 
+\[[Poster guidelines/template](https://docs.google.com/presentation/d/1tV8ygaJ0y5iQh_ixlyMG8DJGCsVQeuuR0_YJYkAem1g/edit?usp=sharing)\]
+
 <!-- SPRING NOTES -->
 <!-- https://capstone-24-25.github.io/Class-content/pstat197bc/about-spring-meetings.html -->
 
