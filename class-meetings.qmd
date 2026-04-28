@@ -33,6 +33,16 @@ title: "Class meetings"
 
 -   *Tuesday meeting*: \[[see presenters here](https://docs.google.com/spreadsheets/d/1Zg33y5zmrTKaDziRkElMucAtOXRJNSTzGi22EiyaTOI/edit?usp=sharing)\]
 
+## Week 5
+
+-   *Tuesday meeting*: workshopping figure design
+
+    -   each group should bring 1 - 2 figures
+    
+    -   seating arrangements \[[here](https://docs.google.com/spreadsheets/d/1e4gdbRl07nJAAwrqUMHzet6IhoAT-eCPOaBulge5IVU/edit?usp=sharing)\]
+    
+    -   slides for today \[[here](https://docs.google.com/presentation/d/1XZL9v9Bufdyy1PqCgogFn8IRjlmHxeBUNfmOZbizxsI/edit?usp=sharing)\]
+
 <!-- -   *Tuesday meeting*: course overview \[[slides](slides/week1-intro.qmd)\] -->
 
 <!-- -   *Class assignments:* -->
