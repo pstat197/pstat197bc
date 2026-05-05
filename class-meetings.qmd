@@ -42,6 +42,18 @@ title: "Class meetings"
     -   seating arrangements \[[here](https://docs.google.com/spreadsheets/d/1e4gdbRl07nJAAwrqUMHzet6IhoAT-eCPOaBulge5IVU/edit?usp=sharing)\]
     
     -   slides for today \[[here](https://docs.google.com/presentation/d/1XZL9v9Bufdyy1PqCgogFn8IRjlmHxeBUNfmOZbizxsI/edit?usp=sharing)\]
+    
+## Week 6
+
+-   *Tuesday meeting*: workshopping posters
+
+    -   each student should bring their group's poster draft
+    
+    -   seating arrangements \[[here](https://docs.google.com/spreadsheets/d/1e4gdbRl07nJAAwrqUMHzet6IhoAT-eCPOaBulge5IVU/edit?usp=sharing)\]
+    
+    -   slides for today \[[here](https://docs.google.com/presentation/d/1SXWH-2AG9pyQYDwbaaSmh_1y1msgZ4s6vpO4d53SjUs/edit?usp=sharing)\]
+    
+    -   peer review, due **May 17th** \[[here](https://forms.gle/VP4Ko5EtsELUJasu9)\]
 
 <!-- -   *Tuesday meeting*: course overview \[[slides](slides/week1-intro.qmd)\] -->
 
