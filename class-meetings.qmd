@@ -54,6 +54,14 @@ title: "Class meetings"
     -   slides for today \[[here](https://docs.google.com/presentation/d/1SXWH-2AG9pyQYDwbaaSmh_1y1msgZ4s6vpO4d53SjUs/edit?usp=sharing)\]
     
     -   peer review, due **May 17th** \[[here](https://forms.gle/VP4Ko5EtsELUJasu9)\]
+    
+## Week 7
+
+-   *Tuesday meeting*: individual presentations, continued
+
+    -   see \[[presenters here](https://docs.google.com/spreadsheets/d/1Zg33y5zmrTKaDziRkElMucAtOXRJNSTzGi22EiyaTOI/edit?usp=sharing)\]
+    
+    -   reminder: **posters due May 18th!**
 
 <!-- -   *Tuesday meeting*: course overview \[[slides](slides/week1-intro.qmd)\] -->
 
